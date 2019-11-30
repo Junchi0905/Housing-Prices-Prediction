@@ -2,7 +2,7 @@
 Top 0.5% (22/5250) on Kaggle competition: House Prices Advanced Regression Techniques https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 # Data
-The dataset is describing (almost) every aspect of residential homes in Ames, Iowa, which contains 1460 observations with 79 variables, including a house ID and the sale price of each house. The original dataset can be found as train.csv and a description of each variable in the data set is provided in the Data Description.txt file on the github site.
+The dataset is describing (almost) every aspect of residential homes in Ames, Iowa. It contains 1460 observations with 79 variables, including a house ID and the sale price of each house. The original dataset can be found as train.csv and a description of each variable in the data set is provided in the Data Description.txt file on the github site.
 
 # Modeling
 In this competition, I built a predictive regression model to predict housing price in Ames, Iowa. This model will be helpful for price negotiation and adjusting price strategies in the real estate market.
