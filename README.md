@@ -1,5 +1,10 @@
 # Housing-Price-Prediction
-Top 0.5% (22/5250) on Kaggle competition: House Prices Advanced Regression Techniques
+Top 0.5% (22/5250) on Kaggle competition: House Prices Advanced Regression Techniques https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
 # Data
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
-With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+The dataset is describing with 79 explanatory variables(almost) every aspect of residential homes in Ames, Iowa. The data contains 1460 observations with 79 variables, including a house ID and the sale price of each house. The original dataset can be found as train.csv and a description of each variable in the data set is provided in the Data Description.txt file on the github site.
+
+# Modeling
+In this competition, I built a predictive regression model to predict housing price in Ames, Iowa. This model will be helpful for price negotiation and adjusting price strategies in the real estate market.
+
+In particular, I implemented advanced regression models (Ridge, Lasso, Elastic Net and XGBoost) from data extracting, preprocessing, feature engineering to modeling and optimized performance with ensemble methods (stacking and blending), finally achieved 0.102 RMSE.
