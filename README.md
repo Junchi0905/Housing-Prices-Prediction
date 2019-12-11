@@ -1,5 +1,6 @@
 # Housing-Price-Prediction
-Top 0.5% (22/5250) on Kaggle competition: House Prices Advanced Regression Techniques https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+Top 0.5% (22/5250) on Kaggle competition: House Prices Advanced Regression Techniques 
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ![image](https://github.com/Junchi0905/Housing-Prices-Prediction/blob/master/Housing_Price.jpg)
 
